@@ -1,5 +1,5 @@
 # meothelioma-neoantigen-selection
-Aimed to characterize tumor-infiltrating lymphocytes (TILs) in resectable MPM treated with neoadjuvant ICB combination therapy to uncover the immunologic basis of this response.
+Aimed to help characterize tumor-infiltrating lymphocytes (TILs) in resectable MPM treated with neoadjuvant ICB combination therapy to uncover the immunologic basis of this response in mammalian cell cultures.
 
 Process protein FASTA sequences using netMHCpan 4.1 to data mine and identify candidate immunogenic tumor antigens associated with mesothelioma: rearrangemnet genes, mesothelioma-specific genes, and tumor-associated antigens, cancer testis antigens, and human endogenous retroviruses.
 
