@@ -6,7 +6,7 @@ Process protein FASTA sequences using netMHCpan 4.1 to data mine and identify ca
 Developed and deployed Python-based scripts to streamline the preprocessing of raw datasets mined from netMHCpan, utilizing automation to reduce manual data handling of millions of data points.
 
 1) Identify biomarkers of interest.
-2) Visit the NIH National Library of Medicine [webpage]([url](https://www.ncbi.nlm.nih.gov/)) and select the protein database, search gene, then filter for Homo sapiens.
+2) Visit the NIH National Library of Medicine (https://www.ncbi.nlm.nih.gov/) and select the protein database, search gene, then filter for Homo sapiens.
 3) Select for FASTA file(s) with full aa sequence; precursors are acceptable. Do NOT select isoforms.
 4) Copy and paste the FASTA standard text to netMHCpan 4.1: https://services.healthtech.dtu.dk/services/NetMHCpan-4.1/
 5) Select "8mer", "9mer", and "10mer" under "Peptide Length."
