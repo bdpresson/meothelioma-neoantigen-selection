@@ -15,4 +15,6 @@ Developed and deployed Python-based scripts to streamline the preprocessing of r
 8) If there are more than 20 haplotypes of interest, then repeat steps 5-7 until all haplotypes have been accounted for.
 9) Use "compiler_netmhcpan_filter.script.py" to compile the .txt files and remove observations that do not include "WB" or "SB" in the "BindLevel" column. Be sure to follow the comments in the Python script to properly produce a .csv.
 
-The .csv file is prepared for downstream analysis.
+The .csv file is prepared for downstream analysis. 
+
+The goal is to identify candidate neoantigen peptide sequences to test in mammalian cell cultures to analyze T-cell clonal dynamics in patients receiving ICB combination therapy.
