@@ -3,7 +3,7 @@ Aimed to help characterize tumor-infiltrating lymphocytes (TILs) in resectable M
 
 Process protein FASTA sequences using netMHCpan 4.1 to data mine and identify candidate immunogenic tumor antigens associated with mesothelioma: rearrangemnet genes, mesothelioma-specific genes, and tumor-associated antigens, cancer testis antigens, and human endogenous retroviruses.
 
-Developed and deployed Python-based scripts to streamline the preprocessing of raw datasets mined from netMHCpan, utilizing automation to reduce manual data handling of millions of data points.
+Developed and deployed Python-based script to streamline the preprocessing of raw datasets mined from netMHCpan, utilizing automation to reduce manual data handling of millions of data points.
 
 1) Identify biomarkers of interest.
 2) Visit the NIH National Library of Medicine (https://www.ncbi.nlm.nih.gov/) and select the protein database, search gene, then filter for Homo sapiens.
